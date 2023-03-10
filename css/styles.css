@@ -1,10 +1,8 @@
-.newassignment {
-    background-color: lightblue;
-  }
-  img {border-radius: 25%; border-color: red 50%;}
+.newassignment {background-color: rgb(19, 163, 72);}
+  img {border-radius: 25%; border-style: dashed; border-color: red;}
   H1 {text-align: center;}
   h1{text-align: center;}
   h2{text-align: center;}
   .newassignment{font-family: Arial, Helvetica, sans-serif;}
   .newassignment{cursor:crosshair;} 
- .pistachio {size-adjust: 25%;}
+ .pistachio {width: 200px; height: 250px;}
